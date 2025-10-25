@@ -171,15 +171,11 @@ Se analizaron las distribuciones de `Quantity`, `UnitPrice` y `TotalPrice`:
 ## 👩‍💻 Autora
 
 **Yuliana Díaz**  
-Estudiante de Análisis de Datos y Machine Learning  
+
 📅 Octubre 2025  
-📧 *(opcional: agrega tu correo si deseas incluirlo)*  
 
----
 
-## 🧾 Licencia
 
-Este proyecto se distribuye bajo la licencia **MIT**, permitiendo su uso libre para fines académicos y de investigación.
 
 ---
 
